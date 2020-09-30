@@ -1,0 +1,10 @@
+shore	The island shore you wash up on	forest	null	fruit_tree	abandoned_boat	0
+forest	A dark and creepy forest just by the coast	quick_sand	shore	null	skull_rock	0
+abandoned_boat	Another boat that looks stranded	skull_rock	null	shore	null	0
+fruit_tree	Coconuts hang high above the sand on a lone tree	temple	null	null	shore	10
+skull_rock	A large rock carved into a skull	null	abandoned_boat	forest	cave	-30
+cave	Cracks in the rock lead into a wide cave mouth	underground_fountain	null	skull_rock	null	-10
+underground_fountain	A mysterious fountain flowing underneath the earth	null	cave	null	null	20
+quick_sand	An ominous pit of sand ready to swallow	null	forest	waterfall	null	-70
+waterfall	Roaring water crashes below over the edge of the falls	null	temple	null	quick_sand	0
+temple	A large and empty stone temple stands alone	waterfall	fruit_tree	null	null	-30
